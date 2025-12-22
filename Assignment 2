@@ -1,1 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Table Assignment</title>
+    <link rel="stylesheet" href="table.css">
+</head>
+<body>
 
+<table border="1">
+    <tr>
+        <th rowspan="2">SN</th>
+        <th colspan="2">Name</th>
+        <th rowspan="2">Address</th>
+        <th rowspan="2">Phone No</th>
+    </tr>
+    <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Aryan</td>
+        <td>Phuyal</td>
+        <td>Kathmandu</td>
+        <td>98XXXXXXXX</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Shashwat</td>
+        <td>Aryal</td>
+        <td>Kathmandu</td>
+        <td>976XXXXXXX</td>
+    </tr>
+</table>
+
+</body>
+</html>
