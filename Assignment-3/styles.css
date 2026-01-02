@@ -18,6 +18,9 @@ tr:nth-child(4) {
 tr:nth-child(5) {
   background-color:rgb(170, 240, 252);
 }
+tr:nth-child(6) {
+  background-color:rgb(255, 237, 237);
+}
 td, th {
   padding: 8px;
   border: 1px solid #ffa2a2;
